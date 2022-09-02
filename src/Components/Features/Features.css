@@ -1,0 +1,24 @@
+.features{
+background-color: rgba(12, 180, 155, 0.277);
+padding: 80px;
+}
+@media only screen and (max-width: 600px) {
+   img{
+    width:300px;
+    height: auto;
+    margin: auto;
+    margin-left:-73px;
+   }
+  }
+h3 span{
+    color: rgb(56, 56, 188);
+    text-transform: uppercase;
+
+}
+h3{
+    color: black;
+}
+/* i{
+    font-size: 50px;
+    color: rgb(210, 30, 63);
+} */
